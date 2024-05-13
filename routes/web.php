@@ -23,7 +23,7 @@ Route::get('/livewire/update', function(){
 });
 
 Route::get('/', function () {
-    return view('welcome', ['title' => "Lamssa Fashion"]);
+    return view('welcome', ['title' => "Amtar"]);
 });
 
 
@@ -64,7 +64,7 @@ Route::get('/cart', function () {
 
     $cartCount = count($cartContent);
     $total = Cart::subtotal();
-    $title = "Lamssa Fashion";
+    $title = "Amtar";
     return view('cart', compact('items', 'total', 'title'));
 })->name('cart');
 

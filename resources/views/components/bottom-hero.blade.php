@@ -20,7 +20,7 @@
                                     </div>
                                     <p class="desc h5">Capturez l'instant</p>
                                     <p class="fw-bold h5" style="line-height: 35px;">
-                                        Vivez pleinement l'esprit de Lamssa Fashion en portant nos
+                                        Vivez pleinement l'esprit de Amtar en portant nos
                                         ensembles lors de vos escapades. Que ce soit sur la plage,
                                         dans un café confortable ou en explorant de nouveaux
                                         horizons, nos tenues sont parfaites pour créer des
@@ -65,7 +65,7 @@
                                 {{-- <div class="lynessa-testimonial style-02">
                                     <div class="testimonial-inner text-center">
                                         <h3>Capturez l'instant</h3>
-                                        <p class="desc">Vivez pleinement l'esprit de Lamssa Fashion en portant nos
+                                        <p class="desc">Vivez pleinement l'esprit de Amtar en portant nos
                                         ensembles lors de vos escapades. Que ce soit sur la plage,
                                         dans un café confortable ou en explorant de nouveaux
                                         horizons, nos tenues sont parfaites pour créer des

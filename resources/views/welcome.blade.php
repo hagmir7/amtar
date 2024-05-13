@@ -14,7 +14,7 @@
                 <div class="heading-inner">
                     <h3 class="title">Nouvelle collection</h3>
                     <div class="subtitle">
-                        Découvrez les derniers produits de notre boutique en ligne <strong>Lamssa Fashion</strong>
+                        Découvrez les derniers produits de notre boutique en ligne <strong>Amtar</strong>
                     </div>
                 </div>
             </div>
